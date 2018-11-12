@@ -1,0 +1,10 @@
+ACCEPTABLE VALUES:
+
+NECK (send a 2 first):
+50-120
+
+HEAD (send a 0 first):
+ONLY MOVE WHEN NECK = 90:
+	50 - 100
+
+
