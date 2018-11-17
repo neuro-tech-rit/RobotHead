@@ -1,0 +1,7 @@
+0 to move head
+1 to move neck
+
+HEAD(0) accepts 20-150
+NECK(1) accepts 20-160
+
+DO NOT USE HAND MODE
